@@ -7,7 +7,7 @@ defmodule Phoenix.Mixfile do
     [
       app: :phoenix,
       version: "0.2.4",
-      elixir: "~> 0.13.3",
+      elixir: "~> 0.14.0-dev",
       deps: deps(Mix.env),
       package: [
         contributors: ["Chris McCord", "Darko Fabijan"],
